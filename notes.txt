@@ -1,0 +1,7 @@
+hogere versie mediainfo https://github.com/xbgmsharp/piwigo-videojs/wiki/How-to-add-videos#external-tools
+
+# apt-get install ffmpeg
+ # wget http://mediaarea.net/download/binary/mediainfo/0.7.74/mediainfo_0.7.74-1_amd64.Debian_7.0.deb
+ # wget http://mediaarea.net/download/binary/libmediainfo0/0.7.74/libmediainfo0_0.7.74-1_amd64.Debian_7.0.deb
+ # wget http://mediaarea.net/download/binary/libzen0/0.4.31/libzen0_0.4.31-1_amd64.Debian_7.0.deb
+ # dpkg -i libzen0_0.4.31-1_amd64.Debian_7.0.deb libmediainfo0_0.7.74-1_amd64.Debian_7.0.deb  mediainfo_0.7.74-1_amd64.Debian_7.0.deb
